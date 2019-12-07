@@ -1,0 +1,3 @@
+[submodule "unirest"]
+  path = unirest-java
+  url = git@github.com:meugen/unirest-java.git
